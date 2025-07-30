@@ -67,7 +67,7 @@ This project was developed solely for academic purposes as part of a coursework 
 
 ## 📥 Access the Full Report
 
-📄 [Click here to download the full SRS documentation (PDF)](./docs/srs-final-doc.pdf)
+📄 [Click here to download the full SRS documentation (PDF)](./docs/Restaurant_Management_System.pdf)
 
 ---
 
@@ -149,7 +149,7 @@ Employers will find this project valuable as it demonstrates:
 
 ## 📥 تحميل التقرير الكامل
 
-📄 [اضغط هنا لتحميل وثيقة التحليل والتصميم (PDF)](./docs/srs-final-doc.pdf)
+📄 [اضغط هنا لتحميل وثيقة التحليل والتصميم (PDF)](./docs/Restaurant_Management_System.pdf)
 
 ---
 
